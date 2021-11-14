@@ -9,7 +9,7 @@ php bin/magento setup:static-content:deploy
 
 # Wishusucess Support Team Help
 
-Please contact us if you are in the need of any help at wishusucess contact form
+Please contact us if you are in the need of any help at [wishusucess contact form](http://www.wishusucess.com/contact-us/)
 
 # Other API Blog:
 
