@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Category: Wishusucess_Notifications
+ * Developer: Hemant Singh Magento 2x Developer
+ * Website: http://wwww.wishusucess.com
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
+    <event name="controller_action_predispatch">
+        <observer instance="Wishusucess\Notifications\Observer\Controller\ActionPredispatch" name="Wishusucess_Notifications::controller_action_predispatch"/>
+    </event>
+</config>
