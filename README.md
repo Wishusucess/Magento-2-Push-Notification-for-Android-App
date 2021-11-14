@@ -1,5 +1,5 @@
 # Magento-2-Push-Notification-for-Android-App
-Wishusucess Push Notification in Magento 2 allows you to receive notifications.
+Wishusucess [Push Notification in Magento 2](http://www.wishusucess.com/how-to-send-push-notifications-on-android-application/) allows you to receive notifications.
 
 # Run commands:
 
